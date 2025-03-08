@@ -14,10 +14,10 @@ Here's a preview of the game:
 [!Screenshot](pong-screenshot.png)
 
 ## INSTALLATION AND SETUP
-1. Clone the Repository:   
+### 1. Clone the Repository:   
    git clone https://github.com/pong-game.git   
    cd pong-game   
-2. Run the Game:   
+### 2. Run the Game:   
    python main.py   
 
 ## HOW TO PLAY   
@@ -39,7 +39,7 @@ Here's a preview of the game:
 . 🐢Turtle Library  
 
 ## FUTURE IMPROVEMENTS
-🚀Some ideas to enhance the game:  
+### 🚀Some ideas to enhance the game:  
 . 🎵Add sound effects   
 . 💡Implement difficulty levels (Easy, Medium, Hard)   
 . 🔥Add a single-player mode with AI   
