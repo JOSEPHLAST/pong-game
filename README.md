@@ -11,7 +11,7 @@ FEATURES
 
 SCREENSHOTS
 Here's a preview of the game:
-[!Screenshot](pong-game.png)
+[!Screenshot](pong-screenshot.png)
 
 INSTALLATION AND SETUP
 1. Clone the Repository:
