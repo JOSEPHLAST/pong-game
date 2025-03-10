@@ -15,7 +15,7 @@ Here's a preview of the game:
 
 ## INSTALLATION AND SETUP
 ### 1. Clone the Repository:   
-   git clone https://github.com/pong-game.git   
+   git clone https://github.com/JOSEPHLAST/pong-game.git   
    cd pong-game   
 ### 2. Run the Game:   
    python main.py   
